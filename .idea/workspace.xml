@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="696030c7-f26a-4f1d-9570-d5fa42df70bb" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DwjNVZ2RoH8uteUh5zP5VJoTeK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MR/Desktop/medical_ai_project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="696030c7-f26a-4f1d-9570-d5fa42df70bb" name="更改" comment="" />
+      <created>1779199987082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779199987082</updated>
+      <workItem from="1779199988103" duration="161000" />
+      <workItem from="1779200183899" duration="32000" />
+      <workItem from="1779200778443" duration="261000" />
+      <workItem from="1779282446721" duration="3000" />
+      <workItem from="1779282463513" duration="220000" />
+      <workItem from="1779282737019" duration="7000" />
+      <workItem from="1779282770149" duration="44000" />
+      <workItem from="1779283484114" duration="274000" />
+      <workItem from="1779283791968" duration="743000" />
+      <workItem from="1779285967292" duration="469000" />
+      <workItem from="1779286507381" duration="3000" />
+      <workItem from="1779286567978" duration="132000" />
+      <workItem from="1779286797574" duration="9000" />
+      <workItem from="1779286845263" duration="112000" />
+      <workItem from="1779287021061" duration="4000" />
+      <workItem from="1779287111738" duration="7000" />
+      <workItem from="1779287227191" duration="12000" />
+      <workItem from="1779287334852" duration="80000" />
+      <workItem from="1779287560055" duration="7000" />
+      <workItem from="1779287652309" duration="7000" />
+      <workItem from="1779287775454" duration="4000" />
+      <workItem from="1779287941699" duration="257000" />
+      <workItem from="1779288256444" duration="1148000" />
+      <workItem from="1779290824449" duration="1299000" />
+      <workItem from="1779297589406" duration="175000" />
+      <workItem from="1779297782415" duration="431000" />
+      <workItem from="1779298224107" duration="457000" />
+      <workItem from="1779299207870" duration="1445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
