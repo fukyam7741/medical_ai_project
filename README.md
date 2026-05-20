@@ -1,5 +1,3 @@
-# Medical AI Project: 医疗智能问答与病历结构化系统
-
 ## 📌 项目简介
 本项目是一套面向医疗辅助场景的**端到端AI应用**，集成三大核心功能模块，解决了大模型在专业场景下的幻觉与输出不稳定问题：
 
@@ -37,3 +35,31 @@
 ---
 
 ## 🚀 项目结构
+```
+medical_ai_project/
+├── api/ # 接口模块
+├── core/ # 核心逻辑
+├── data/ # 数据与知识库
+├── medical_rag.py # 主程序
+├── config.py # 配置文件
+├── requirements.txt # 依赖库列表
+└── README.md # 项目说明文档
+```
+## ⚙️ 环境变量配置
+项目使用 .env 文件管理敏感信息，请自行创建并配置：
+
+API_KEY=你的大模型API_KEY
+
+## 📦 快速启动
+1.  安装依赖
+    ```bash
+    pip install -r requirements.txt
+2.  配置环境变量（大模型API key）
+3.  运行项目
+    ```bash
+    python medical_rag.py
+
+## 📝 补充说明
+- `chroma_db/`: 项目运行时自动生成的向量数据库文件夹，无需手动上传。
+- `models/`: 项目运行时自动下载的向量模型文件，已配置 `.gitignore` 忽略。
+- `.env`: 敏感信息配置文件，请勿上传至公开仓库。
